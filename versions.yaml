@@ -1,0 +1,20 @@
+# versions.yaml - Version tracking for rancher-assets
+# This file lives on the orphan 'versions' branch
+# Updated by workflows after successful releases
+
+v0:
+  stable:
+    tag: null
+    updated-at: null
+  prerelease:
+    tag: null
+    updated-at: null
+
+v1:
+  stable:
+    tag: null
+    updated-at: null
+  prerelease:
+    tag: null
+    updated-at: null
+
