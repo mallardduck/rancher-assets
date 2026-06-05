@@ -7,14 +7,12 @@ v0:
     tag: null
     updated-at: null
   prerelease:
-    tag: null
-    updated-at: null
-
+    tag: v0.1.0-rc.1
+    updated-at: "2026-06-05T21:26:51Z"
 v1:
   stable:
     tag: null
     updated-at: null
   prerelease:
-    tag: null
-    updated-at: null
-
+    tag: v1.1.0-rc.1
+    updated-at: "2026-06-05T21:26:51Z"
